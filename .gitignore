@@ -1,0 +1,19 @@
+# Datasets (download separately, see data/README.md)
+data/*
+!data/README.md
+
+# MATLAB autosave / editor files
+*.asv
+*.m~
+slprj/
+*.mex*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

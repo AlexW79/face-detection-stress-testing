@@ -1,0 +1,64 @@
+method,degradation,tone,step0,step9,n
+ViolaJones,Original,Black,287,287,500
+ViolaJones,Original,Brown,317,317,500
+ViolaJones,Original,White,261,261,500
+ViolaJones,Decrease Brightness,Black,133,1,500
+ViolaJones,Decrease Brightness,Brown,224,4,500
+ViolaJones,Decrease Brightness,White,220,2,500
+ViolaJones,Decrease Contrast,Black,151,2,500
+ViolaJones,Decrease Contrast,Brown,179,10,500
+ViolaJones,Decrease Contrast,White,108,19,500
+ViolaJones,Salt & Pepper Noise,Black,39,7,500
+ViolaJones,Salt & Pepper Noise,Brown,46,6,500
+ViolaJones,Salt & Pepper Noise,White,43,1,500
+ViolaJones,Gaussian Noise,Black,0,0,500
+ViolaJones,Gaussian Noise,Brown,0,0,500
+ViolaJones,Gaussian Noise,White,0,0,500
+ViolaJones,Rotation,Black,475,40,500
+ViolaJones,Rotation,Brown,494,27,500
+ViolaJones,Rotation,White,496,27,500
+ViolaJones,Blurred,Black,291,94,500
+ViolaJones,Blurred,Brown,298,99,500
+ViolaJones,Blurred,White,278,91,500
+HOGSVM,Original,Black,272,272,500
+HOGSVM,Original,Brown,228,228,500
+HOGSVM,Original,White,244,244,500
+HOGSVM,Decrease Brightness,Black,197,9,500
+HOGSVM,Decrease Brightness,Brown,198,10,500
+HOGSVM,Decrease Brightness,White,243,17,500
+HOGSVM,Decrease Contrast,Black,219,14,500
+HOGSVM,Decrease Contrast,Brown,197,32,500
+HOGSVM,Decrease Contrast,White,172,51,500
+HOGSVM,Salt & Pepper Noise,Black,93,36,500
+HOGSVM,Salt & Pepper Noise,Brown,76,24,500
+HOGSVM,Salt & Pepper Noise,White,87,31,500
+HOGSVM,Gaussian Noise,Black,0,0,500
+HOGSVM,Gaussian Noise,Brown,0,0,500
+HOGSVM,Gaussian Noise,White,0,0,500
+HOGSVM,Rotation,Black,471,44,500
+HOGSVM,Rotation,Brown,478,65,500
+HOGSVM,Rotation,White,486,52,500
+HOGSVM,Blurred,Black,260,103,500
+HOGSVM,Blurred,Brown,211,75,500
+HOGSVM,Blurred,White,233,114,500
+CNN,Original,Black,17,17,500
+CNN,Original,Brown,26,26,500
+CNN,Original,White,21,21,500
+CNN,Decrease Brightness,Black,16,133,500
+CNN,Decrease Brightness,Brown,27,93,500
+CNN,Decrease Brightness,White,23,84,500
+CNN,Decrease Contrast,Black,23,138,500
+CNN,Decrease Contrast,Brown,14,67,500
+CNN,Decrease Contrast,White,57,52,500
+CNN,Salt & Pepper Noise,Black,0,0,500
+CNN,Salt & Pepper Noise,Brown,0,0,500
+CNN,Salt & Pepper Noise,White,0,0,500
+CNN,Gaussian Noise,Black,0,0,500
+CNN,Gaussian Noise,Brown,0,0,500
+CNN,Gaussian Noise,White,0,0,500
+CNN,Rotation,Black,108,2,500
+CNN,Rotation,Brown,171,3,500
+CNN,Rotation,White,137,2,500
+CNN,Blurred,Black,0,0,500
+CNN,Blurred,Brown,1,0,500
+CNN,Blurred,White,0,0,500
